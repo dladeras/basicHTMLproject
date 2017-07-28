@@ -16,6 +16,8 @@
 
     <p>Happy Coding!</p>
 
+    <?php phpinfo(); ?>
+
     <script> //window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <!-- <script src="js/plugins.js"></script> -->
